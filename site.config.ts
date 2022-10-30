@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Personal blog HenriqueW',
 
   // social usernames (optional)
-  twitter: 'henriqueweiand',
+  twitter: 'henrique_weiand',
   github: 'henriqueweiand',
   linkedin: 'henrique-weiand',
   // newsletter: '#', // optional newsletter URL
